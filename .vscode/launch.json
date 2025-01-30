@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/scotttopping/Library/CloudStorage/OneDrive-MMU/Documents/Year 4/Distributed Computing/Distributed Computing Repo/Week 1",
+      "program": "/Users/scotttopping/Library/CloudStorage/OneDrive-MMU/Documents/Year 4/Distributed Computing/Distributed Computing Repo/Week 1/build/Debug/outDebug"
+    }
+  ]
+}
